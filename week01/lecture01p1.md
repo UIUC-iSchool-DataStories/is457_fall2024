@@ -7,7 +7,7 @@ tags:
 description: >-
   The syllabus for the course, what we're going to talk about, and some
   get-to-know-you.
-date: 2023-08-22
+date: 2024-08-26
 ---
 
 <br><br><br>
@@ -33,26 +33,7 @@ we are a land grant institution, and as such it is important that we know a bit 
 
 ## Basics
 
-12:30-1:50PM Tues/Thurs
-
-Jill Naiman (Prof.) - `jnaiman@illinois.edu`
-
-Andy Zalot (Prof.) - `azalot2@illinois.edu`
-
-Gowri Balasubramaniam (TA) - `gowri2@illinois.edu`
-
-Office Hours: By Appointment
-
-Where are these slides? https://uiuc-ischool-datastories.github.io/is457_fall2023/
-
-notes:
-some basics, if you are here you probably know what time/space the class is taking place in but just know it won't change! :D
-
-this class will be co-instructed by me and professor Andy Zalot -- I'll be covering some of the data things, and Andy will be covering the storytelling aspects
-
-we have a wonderful TA **let TA introduce themselves!** who will be helping us out this semester
-
-also, if you are curious where these slides live, the main page is this above link, but we will be linking the individual lecture slides in canvas as well
+To Canvas for the Syllabus!
 
 ---
 
@@ -263,9 +244,10 @@ Please note this is an in person class so we expect you to be in person - there 
 
 ## Grading - Categories
 
+ * 10% -- Participation/Attendance
  * 10% -- Reading Quizzes (\~weekly, more heavily toward the start of class)
- * 15% -- Graded in class activities (\~weekly or every other week, individual and group)
- * 75% -- Assignments (group)
+ * 10% -- Graded in class activities (\~weekly or every other week, individual and group)
+ * 70% -- Assignments (group)
 
 notes:
 with this idea of the course, let's look at the overall way grading is going to work in this course
@@ -283,9 +265,10 @@ also about reading quizzes: as these are new, there might be some errors in them
 
 ## Grading - Categories
 
+ * 10% -- Participation/Attendance
  * 10% -- Reading Quizzes (\~weekly, more heavily toward the start of class)
- * 15% -- Graded "in class" activities (\~weekly or every other week, individual and group)
- * 75% -- Assignments (group)
+ * 10% -- Graded in class activities (\~weekly or every other week, individual and group)
+ * 70% -- Assignments (group)
 
 notes:
 
@@ -300,11 +283,13 @@ more details on the graded in class activities next week when we start using the
 You will have five assignments:
 
  1. Tweet Critique (5-7 minute presentation in class with slides, in Weeks 5-10)
- 2. Data Story Idea: Social Problem or Social Justice (1 page + short recording)
- 3. Data Story Critique Proposal (written)
- 4. Data Story Critique Final Submission (written)
- 5. Recorded Data Story (3-5 minutes)
- 6. Final data story (\~10 minutes max in class, last 2 weeks)
+ 2. Against Data Villainy 
+	* a. Proposal (written)
+	* b. Proposal (written/data analysis & viz)
+ 3. Data Story
+	* a. Data Story Idea: Social Problem or Social Justice (1 page + short recording)
+    * b. Recorded Data Story (3-5 minutes)
+    * c. Final data story (\~5-10 minutes max in class, last 2 weeks)
  
 notes:
 within the assignments category there is a break down further into individual assignments
@@ -350,7 +335,7 @@ how do these assignments and assessments relate to the things we want you to tak
 
 ## After this class, you should be able to
 
- * use some online tools to make interactive visualizations & data stories (in class activities, Assignments 3 & 4)
+ * use some online tools to make interactive visualizations & data stories (in class activities, Assignments 2 & 3)
  
  * be able to critique the "data stories" you come across in your everyday life
  
@@ -359,63 +344,63 @@ how do these assignments and assessments relate to the things we want you to tak
  * understand the theory behind why storytelling is effective for communicating with data & get some ideas for how to give great presentations using these techniques and concepts
  
 notes:
-through in class activities and assignments 3 & 4, we'll explore just a few of the ways to use some online tools to make interactive viz (all without using programming)
+through in class activities and assignment 2 & 3, we'll explore just a few of the ways to use some online tools to make interactive viz (all without using programming)
 
 ---
 
 ## After this class, you should be able to
 
- * use some online tools to make interactive visualizations & data stories (in class activities, Assignments 3 & 4)
+ * use some online tools to make interactive visualizations & data stories (in class activities, Assignments 2 & 3)
  
- * be able to critique the "data stories" you come across in your everyday life (Assignments 1, 3, & 4)
+ * be able to critique the "data stories" you come across in your everyday life (Assignments 1 & 2)
  
  * practice telling a story which is backed by data live to an audience (we will coach you through this process!)
  
  * understand the theory behind why storytelling is effective for communicating with data & get some ideas for how to give great presentations using these techniques and concepts
  
 notes:
-Assignments 1, 3 & 4 will focus on critiquing data stories we come across in everyday life
+Assignments 1 & 2 will focus on critiquing data stories we come across in everyday life
 
 ---
 
 ## After this class, you should be able to
 
- * use some online tools to make interactive visualizations & data stories (in class activities, Assignments 3 & 4)
+ * use some online tools to make interactive visualizations & data stories (in class activities, Assignments 2 & 3)
  
- * be able to critique the "data stories" you come across in your everyday life (Assignments 1, 3, & 4)
+ * be able to critique the "data stories" you come across in your everyday life (Assignments 1 & 2)
  
- * practice telling a story which is backed by data live to an audience (Assignments 1 & 6) (we will coach you through this process!)
+ * practice telling a story which is backed by data live to an audience (Assignments 1 & 3c) (we will coach you through this process!)
  
  * understand the theory behind why storytelling is effective for communicating with data & get some ideas for how to give great presentations using these techniques and concepts
  
 notes:
-Assingments 1 & 6 will be your opportunity to actually tell a data story to the whole class...
+Assingments 1 & 3c will be your opportunity to actually tell a data story to the whole class...
 
 
 ---
 
 ## After this class, you should be able to
 
- * use some online tools to make interactive visualizations & data stories (in class activities, Assignments 3 & 4)
+ * use some online tools to make interactive visualizations & data stories (in class activities, Assignments 2 & 3)
  
- * be able to critique the "data stories" you come across in your everyday life (Assignments 1, 3, & 4)
+ * be able to critique the "data stories" you come across in your everyday life (Assignments 1 & 2)
  
- * practice telling a story which is backed by data live to an audience (Assignments 1 & 6) (we will coach you through this process! Assignments 2 & 5, in class activities)
+ * practice telling a story which is backed by data live to an audience (Assignments 1 & 3c) (we will coach you through this process! Assignments 2a & 2b, in class activities)
  
  * understand the theory behind why storytelling is effective for communicating with data & get some ideas for how to give great presentations using these techniques and concepts
  
 notes:
-but you won't be totally on your own -- through Assignments 2 & 5, we will coach you through this process as well as provide support during in class activities
+but you won't be totally on your own -- through Assignments 1 & 3c, we will coach you through this process as well as provide support during in class activities
 
 ---
 
 ## After this class, you should be able to
 
- * use some online tools to make interactive visualizations & data stories (in class activities, Assignments 3 & 4)
+ * use some online tools to make interactive visualizations & data stories (in class activities, Assignments 2 & 3)
  
- * be able to critique the "data stories" you come across in your everyday life (Assignments 1, 3, & 4)
+ * be able to critique the "data stories" you come across in your everyday life (Assignments 1 & 2)
  
- * practice telling a story which is backed by data live to an audience (Assignments 1 & 6) (we will coach you through this process! Assignments 2 & 5, in class activities)
+ * practice telling a story which is backed by data live to an audience (Assignments 1 & 3c) (we will coach you through this process! Assignments 2a & 2b, in class activities)
  
  * understand the theory behind why storytelling is effective for communicating with data & get some ideas for how to give great presentations using these techniques and concepts (reading quizzes, in class activities)
  
@@ -514,11 +499,6 @@ mention modules
 
 **be sure to point out tutorials and resources at top of page!**
 
----
-
-<br><br><br>
-
-# To Prof. Zalot!
 
 ---
 
