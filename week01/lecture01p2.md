@@ -134,9 +134,7 @@ A few things:
  1. make sure you are only working on *your group's* board
  
 **And go!**
-* [ACU/ACG - Tues/Thurs 12:30-1:50pm](https://miro.com/app/board/uXjVKlDWryI=/?share_link_id=480566102406)
-* [BCU/BCG - Tues/Thurs 3pm-4:20pm](https://miro.com/app/board/uXjVKlDJtMc=/?share_link_id=557387346683)
-
+(Check out Miro link)
 
 notes:
 **go through and then ask if folks have questions**
