@@ -133,7 +133,10 @@ A few things:
  1. one person in your group will need to be logged in to google through your @illinois.edu address
  1. make sure you are only working on *your group's* board
  
-**And go!** https://miro.com/welcomeonboard/bjVmanN3RVluQmZ3dE9lYjgwc3BoSVJZQkNDcFZOdnR3czZPcXowVzBSZkZrNjh5ODNWYmN6azYwaWVIOE90enwzNDU4NzY0NTk3OTQxMDk1MjQ5fDI=?share_link_id=738938519457
+**And go!**
+* [ACU/ACG - Tues/Thurs 12:30-1:50pm](https://miro.com/app/board/uXjVKlDWryI=/?share_link_id=480566102406)
+* [BCU/BCG - Tues/Thurs 3pm-4:20pm](https://miro.com/app/board/uXjVKlDJtMc=/?share_link_id=557387346683)
+
 
 notes:
 **go through and then ask if folks have questions**
