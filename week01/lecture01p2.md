@@ -123,7 +123,7 @@ notes:
 
 ## Names - Visualization
 
-In your new breakout rooms, we want you to think about telling a story about names.
+In your groups, we want you to think about telling a story about names.
 
  * How do we tell a visual story about this?
  * What information -- *data* -- can we obtain about names?
