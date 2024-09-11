@@ -5,7 +5,7 @@ tags:
   - data sources
   - TurnItIn
 description: >-
-  Mostly GDS and Group Contracts, a bit about attendance.
+  A bit about TurnItIn and how we'll use it in this class.
 date: 2024-09-12
 ---
 

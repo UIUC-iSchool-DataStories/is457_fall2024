@@ -1,12 +1,12 @@
 ---
-title: Lecture 3.1 - GDS and Group Contracts & a bit about attendance
+title: Lecture 3.1 - Group Contracts & a bit about attendance
 layout: lecture
 tags:
   - data sources
   - TurnItIn
 description: >-
-  A bit about TurnItIn.
-date: 2024-09-10
+  Groups are formed!  We'll also review attendance policies.
+date: 2024-09-12
 ---
 
 ## Tweet Critique Dates Set
@@ -17,60 +17,41 @@ notes:
 
 also, we had a lot of folks sign up for the first day! more than we were expecting! so now we have split this into 1 group on the first day and 2 on the second day
 
----
-
-<br>
-<br>
-
-# More with Google Data Studio & Group Contracts
-
-notes:
-so today we'll finish up some things with GDS and then have some time to work on group contracts to facilitate your collaborations this semester
-
+**go to where dates are**
 
 ---
 
-## But first!  A moment about TurnItIn
+## Reviewing Attendance (practicalities)
+
+1. Attendance is taken at the beginning of class on Canvas
+1. We will cross-check with name cards
+  * If you are late be sure to pick up your name card for partial points!
+  * Please write your `uuid` on the back of your name card
+1. Grade for attendance will be updated ~weekly on Canvas (going forward)
+
 
 notes:
-there is a video and a set of slides that walk you through the turnitin process which is how we are detecting plagurism which will be active on Assignment #4
+* go over each of these
 
 ---
 
-## But first!  A moment about TurnItIn
+## Reviewing Attendance (practicalities)
 
-This is nobody's favorite thing.
+1. Attendance is taken at the beginning of class on Canvas
+1. We will cross-check with name cards
+  * If you are late be sure to pick up your name card for partial points!
+  * Please write your uuid on the back of your name card
+1. Grade for attendance will be updated ~weekly on Canvas (going forward)
 
-notes:
-so, I just want to call out here that this stuff isn't fun to talk about or think about!
+<br><br>
 
----
-
-## But first!  A moment about TurnItIn
-
-This is nobody's favorite thing.
-
-But we [do have to think about it](https://provost.illinois.edu/policies/policies/academic-integrity/students-quick-reference-guide-to-academic-integrity/).
-
-notes:
-but, this is something that the university takes very seriously, so we do have to pay attention to these issues
-
----
-
-## But first!  A moment about TurnItIn
-
-This is nobody's favorite thing.
-
-But we [do have to think about it](https://provost.illinois.edu/policies/policies/academic-integrity/students-quick-reference-guide-to-academic-integrity/).
-
-Using TurnItIn as we will in this course is our way to make this as transparent a process as possible.
+#### Policies
+1. We drop the 2 lowest attendance scores (inlcuding 0 for missed classes)
+  * this will align with dropping the 2 lowest in class activities -- *if the due date of the activity is during class no points will be awarded if you are absent*
+1. Longer absenses due to illness -- please reach out to us immediately and contact the [Absense Letter](https://odos.illinois.edu/resources/students/absence-letters) center; emergencies go to the [Emergency Dean](https://odos.illinois.edu/community-of-care/emergency-dean)
+1. You can make up points due to other absenses by doing well on the reading quizzes!
 
 notes:
-so, as you'll see in the video and reading quiz - you will be able to see your turnitin report and the reasoning behind this is that we want you to be able to see *how we will assess* plagurism
-
-why? because some folks have been thinking about citations and plagurism their whole lives, but folks are coming from educational systems in which they haven't had to deal with this as much
-
-we want to support all of you!  so take this as a learning opportunity to understand a bit more about how to do technical writing at the UIUC educational environment
-
-more info will be in the TurnItIn recorded lecture and slides!
-
+* make point about in class activities that are due during class not being given points if you are not present
+* but in class activities where you have extra time outside class (like the group contracts) -- you can still get credit for this
+* longer absenses require documentation -- we need to be equitable to all students and abide by the policies in the syllabus
