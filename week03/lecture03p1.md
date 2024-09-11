@@ -1,22 +1,43 @@
 ---
-title: Lecture 3.2 - A bit about TurnItIn
+title: Lecture 3.1 - GDS and Group Contracts & a bit about attendance
 layout: lecture
 tags:
   - data sources
   - TurnItIn
 description: >-
-  Mostly GDS and Group Contracts, a bit about attendance.
-date: 2024-09-12
+  A bit about TurnItIn.
+date: 2024-09-10
 ---
 
-## A moment about TurnItIn
+## Tweet Critique Dates Set
+
+(Please email us As Soon As Possible if your group needs to change your assigned date).
+
+notes:
+
+also, we had a lot of folks sign up for the first day! more than we were expecting! so now we have split this into 1 group on the first day and 2 on the second day
+
+---
+
+<br>
+<br>
+
+# More with Google Data Studio & Group Contracts
+
+notes:
+so today we'll finish up some things with GDS and then have some time to work on group contracts to facilitate your collaborations this semester
+
+
+---
+
+## But first!  A moment about TurnItIn
 
 notes:
 there is a video and a set of slides that walk you through the turnitin process which is how we are detecting plagurism which will be active on Assignment #4
 
 ---
 
-## A moment about TurnItIn
+## But first!  A moment about TurnItIn
 
 This is nobody's favorite thing.
 
@@ -25,7 +46,7 @@ so, I just want to call out here that this stuff isn't fun to talk about or thin
 
 ---
 
-## A moment about TurnItIn
+## But first!  A moment about TurnItIn
 
 This is nobody's favorite thing.
 
@@ -36,7 +57,7 @@ but, this is something that the university takes very seriously, so we do have t
 
 ---
 
-## A moment about TurnItIn
+## But first!  A moment about TurnItIn
 
 This is nobody's favorite thing.
 
