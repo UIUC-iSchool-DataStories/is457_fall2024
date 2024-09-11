@@ -55,3 +55,11 @@ notes:
 * make point about in class activities that are due during class not being given points if you are not present
 * but in class activities where you have extra time outside class (like the group contracts) -- you can still get credit for this
 * longer absenses require documentation -- we need to be equitable to all students and abide by the policies in the syllabus
+
+---
+
+## Group Contracts
+
+We will actually talk about these towards the end of class!
+
+Take away: important to define group norms and expectations early on (and update as needed).
