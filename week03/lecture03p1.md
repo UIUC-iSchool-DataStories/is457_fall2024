@@ -40,7 +40,7 @@ notes:
 1. Attendance is taken at the beginning of class on Canvas
 1. We will cross-check with name cards
   * If you are late be sure to pick up your name card for partial points!
-  * Please write your uuid on the back of your name card
+  * Please write your `uuid` on the back of your name card
 1. Grade for attendance will be updated ~weekly on Canvas (going forward)
 
 <br><br>
