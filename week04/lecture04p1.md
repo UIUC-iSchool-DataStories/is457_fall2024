@@ -1,22 +1,33 @@
 ---
-title: Lecture 4.1 - Data Stories & Data Sources
+title: Lecture 4.1 - Data Sources & Viz for Villiany Assignment
 layout: lecture
 tags:
   - data sources
-  - TurnItIn
+  - Assignment 2
 description: >-
-  Mostly chatting data sources, some annoucements.
-date: 2023-09-12
+  Mostly chatting data sources, some discussion about Assignment 2.
+date: 2024-09-17
 ---
 
-## Annoucements
+## Announcements
 
-1. "order" in slider - https://www.youtube.com/watch?v=tHdciHg56E0
 1. How Tweet Critique Presentations will work -- *we need your slides beforehand!*
 
 notes:
-1. basically, it just tells you how many max "rows" to display when you use the slider
 1. we need your slides before hand since we will run things off of the "in class" computer
+
+---
+
+## (Against) Viz for Villiany
+
+* New groups!
+* Proposal is due next week (we will have in class time to work in groups on this in class) - you will get feedback on this before your final submission
+* See Syllabus for more details
+
+notes:
+* highlight there are new groups
+* highlight that we will have time in class to work on the proposal/the assignment as a whole AND that they will get feedback that they need to address in their final submission
+* **go over assignment in syllabus**
 
 ---
 
@@ -26,15 +37,17 @@ notes:
 # Intro to Data Sources
 
 notes:
-so today we are going to have a quick introduction to the suggested data sources that you might want to investigate for your final data stories
+so today we are going to have a quick introduction to the suggested data sources that you might want to investigate for your final data stories & have some time to play around with GDS with these sources
 
 these are resources that are well vetted, *well documented* and are (relatively) easy to access and so are good to use for our kind of work
+
+we will also have time for you to brainstorm your own "good" sources for data!
 
 ---
 
 # Data Sources
 
-Our data sources.  Next week we will explore:
+Our data sources.  We will explore:
 
  * data.world
  * data.gov
@@ -115,7 +128,7 @@ this can be very useful data for this class and your final presentations
 
 # Data Sources
 
-Next week (or so) you will divide into groups and explore:
+We will will divide into **Tweet Critique** groups and explore:
 
  * data.world
  * data.gov
