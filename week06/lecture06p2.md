@@ -1,8 +1,8 @@
 ---
-title: Lecture 8.1 - Feedback from Assignment 3 (Narrative Proposal)
+title: Lecture 6.2 - Feedback from Assignment 2(a)
 layout: lecture
 description: >-
-  Feedback for Assignment #3.
+  Feedback on Viz for Villiany Proposals
 date: 2023-10-12
 ---
 
