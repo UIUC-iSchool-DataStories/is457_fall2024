@@ -57,6 +57,8 @@ so, in my mind critique the viz is the "lowest hanging fruit"
 
 you're already making the viz anyway, this is a great opportunity to talk about some choices you made and if you liked your choices better (hint: you can make use of your Knaflic reading here!)
 
+**make sure your critique includes the original dataset for at least one of your plots!**
+
 ---
 
 ## Some trends
