@@ -67,7 +67,7 @@ Ideas for critiques for your chosen Viz for (Against) Villiany:
  * critiques of visualizations
    * redo viz, talk about choices (yours & authors), ideas to make it better
  * critiques of study/data collection methodolgies
-   * sometimes mentioned in article/sometimes not, use of Data Hazard labels
+   * sometimes mentioned in the viz or article/sometimes not, use of Data Hazard labels
    * might involve statistics, probably need to cite some methodogy sources if no obvious Data Hazards or if re-analysis is needed
  * critiques of foundational ideas in the viz/article using the viz
 
