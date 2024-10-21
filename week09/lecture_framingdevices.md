@@ -5,7 +5,7 @@ tags:
   - framing devices
 description: >-
   How to frame your story and introduce it to your audience.
-date: 2023-10-17
+date: 2024-10-20
 ---
 
 # Today
