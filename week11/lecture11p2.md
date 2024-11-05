@@ -1,5 +1,5 @@
 ---
-title: Lecture 11.2 -- Data Narratives
+title: Lecture 11.1 -- Data Narratives
 layout: lecture
 tags:
   - data
@@ -7,7 +7,7 @@ tags:
   - framing devices
 description: >-
   Different narrative styles for use with data.
-date: 2023-11-02
+date: 2024-11-07
 ---
 
 ## Storytelling Form: interactive vs static
@@ -17,7 +17,7 @@ date: 2023-11-02
  * Hybrid
  
 notes:
-recall we discussed this 2 weeks before spring break at the very end of class
+recall we discussed this ~2 weeks ago with our Framing Devices lecture, and we touched on this in Prof. McDowell's Storyboarding lecture.
 
 We had a discussion about framing devices -- i.e. how we "set the stage" for our listener/viewer to engage with our data story
 
@@ -527,27 +527,7 @@ This is also a way to "storyboard" our Data Story presentations (totally optiona
 notes:
 we'll use twine to explore these ideas about how to implement these in more detail!
 
-here is a little history lesson about Twine from a tutorial for how to make your own interactive game
+We started doing this last week and we'll get a chance to work on these more now.
 
-this was the video we watched last week -- starts at 6:22- about 7:59/8
+(this was the video we watched before -- starts at 6:22- about 7:59/8)
 
----
-
-<img src="images/useitonline.png">
-
-notes:
-you can download twine, but we will be using it in the browser
-
----
-
-<img src="images/newTwinery_start.png">
-
-notes:
-since its only saved in your browser cache, its best to periodically save the story
-
----
-
-<img src="images/twinetosave.png">
-
-notes:
-since its only saved in your browser cache, its best to periodically save the story
