@@ -1,5 +1,5 @@
 ---
-title: Lecture 13.2 -- Expectations & Format for Final Data Stories
+title: Lecture 13.1 -- Expectations & Format for Final Data Stories
 layout: lecture
 tags:
   - data
@@ -7,7 +7,7 @@ tags:
   - framing devices
 description: >-
   Different narrative styles for use with data.
-date: 2023-11-16
+date: 2024-11-19
 ---
 
 <br>
@@ -31,7 +31,7 @@ we want to go through the overall format of how the two days the week after the 
  * we will give you a 3 minute and 1 minute warning and then we will play you off!
 
 notes:
-We have a very tight schedule for these two days so we will cut you off with the oscar music :)
+We have a tight schedule for these two days so we will cut you off with the oscar music :)
 
 Make sure you have practiced your talk several times before the in person presentation
 
@@ -42,7 +42,7 @@ Make sure you have practiced your talk several times before the in person presen
 
 1. Presentation time is 10 minutes **MAX**
  * we will give you a 3 minute and 1 minute warning and then we will play you off!
-2. There will be ~3 minutes for questions/answers after each presentation
+2. There will be ~5 minutes for questions/answers after each presentation
 
 ---
 
@@ -50,7 +50,7 @@ Make sure you have practiced your talk several times before the in person presen
 
 1. Presentation time is 10 minutes **MAX**
  * we will give you a 3 minute and 1 minute warning and then we will play you off!
-2. There will be ~3 minutes for questions/answers after each presentation
+2. There will be ~5 minutes for questions/answers after each presentation
 3. Presentations will be run from Prof. Naiman's extra laptop
 
 notes:
