@@ -88,7 +88,7 @@ What does this mean practically for you? ...
 3. Presentations will be run from your own laptop
  * make sure you bring in any connectors/dongles you might need (the connection is HDMI in class)
  * you can use presenter notes, but we should not be able to tell you are using them 
-4. We will start exactly at 12:35pm in order to fit all presentations in on both days
+4. We will start exactly at 12:35pm(A-section)/3:05pm(B-section) in order to fit all presentations in on both days
 
 ---
 
@@ -100,7 +100,7 @@ What does this mean practically for you? ...
 3. Presentations will be run from your own laptop
  * make sure you bring in any connectors/dongles you might need (the connection is HDMI in class)
  * you can use presenter notes, but we should not be able to tell you are using them 
-4. We will start exactly at 12:35pm in order to fit all presentations in on both days
+4. We will start exactly at 12:35pm(A-section)/3:05pm(B-section) in order to fit all presentations in on both days
  * Groups will be called randomly - we will take 5 points off from group members that are not present
  * If a group member does not show up at all, they will get a "0" for the assignment and the group will get a few points taken off (see Rubric for more details)
 
